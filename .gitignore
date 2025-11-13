@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# data / models / artifacts
+data/
+*.pth
+*.pt
+Notebooks/rllib_checkpoints/
+*.log

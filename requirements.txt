@@ -1,0 +1,9 @@
+numpy
+scipy
+ase
+abtem
+gymnasium
+ray[rllib]
+torch
+stable-baselines3
+notebook
