@@ -7,3 +7,4 @@ ray[rllib]
 torch
 stable-baselines3
 notebook
+quantem
