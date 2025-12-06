@@ -4,4 +4,6 @@ The model weights are stored in this google drive link: https://drive.google.com
 
 `quantem` is not currently on PyPi and requires cloning the directory and installing to the local virtual environment: https://github.com/electronmicroscopy/quantem/tree/tomography.
 
+All work performed here was done using a local GPU cluster on 1 NVIDIA L40s GPU.
+
 See requirements.txt for core Python deps.
